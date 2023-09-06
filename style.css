@@ -1,0 +1,12 @@
+body{
+    background-image: url('https://source.unsplash.com/1600x900/?landscape');
+}
+.card{
+  background-color: rgba(0, 200, 255, 0.485);
+  border-radius: 30px;
+  max-width: 50%;
+  margin-left: 27%;
+  margin-top: 13%;
+
+    
+}
